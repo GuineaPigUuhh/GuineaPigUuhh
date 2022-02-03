@@ -4,8 +4,9 @@
 
 - Animate
   - Adobe Animate
+  - Adobe Flash CS4
   - My [Gifs](https://github.com/GuineaPigCode/GuineaPigCode/tree/GIFS-Patch)  
 
 - Coding
-  - Python
-  - Haxe
+  - Visual Studio Code
+  - Pycharm
