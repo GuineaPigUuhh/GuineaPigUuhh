@@ -6,7 +6,7 @@
   - My [Gifs](https://github.com/GuineaPigCode/GuineaPigCode/tree/GIFS-Patch)  
 
 - My Programs
-  - Code: Visual Studio Code / Pycharm
-  - Animate: Adobe Animate / Adobe Flash CS4
-  - Draw: Krita
-  - Browser: Vivaldi / Brave
+  - Code: Visual Studio Code 
+  - Animate And Draw: Adobe Flash CS6
+  - Browser: Google Chrome
+  - Browser ALT: Vivaldi / Brave
