@@ -1,5 +1,8 @@
-I'm a beginner programmer who is in this world just for fun
-# 👍
+## About Me
+a programmer who makes codes for fun 👍
+
+My discord for contact: guineapiguuhh7841
+My Channel in Youtube: [Click Me!](https://www.youtube.com/channel/UCdOS2LIS1up0eeE3KNqlgqg)
 
 ## Programming languages ​​I know
 - [Haxe](https://haxe.org/)
