@@ -2,6 +2,8 @@ I'm a beginner programmer who is in this world just for fun
 # 👍
 
 # Programming languages ​​I know
+- [Haxe](https://haxe.org/)
+- [LUA](https://www.lua.org/)
 
 # My professions
 - Artist
