@@ -6,8 +6,7 @@ a programmer who makes codes for fun 👍
 
 
 ## Programming languages ​​I know
-- [Haxe](https://haxe.org/)
-- [LUA](https://www.lua.org/)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
 ## My professions
 - Artist
