@@ -1,16 +1,16 @@
 I'm a beginner programmer who is in this world just for fun
 # 👍
 
-# Programming languages ​​I know
+## Programming languages ​​I know
 - [Haxe](https://haxe.org/)
 - [LUA](https://www.lua.org/)
 
-# My professions
+## My professions
 - Artist
 - Animator
 - Coder
 
-# My Programming Works
+## My Programming Works
 - [FNF': Null Engine](https://github.com/GuineaPigUuhh/Funkin-NullEngine)
 - [FNF' 0.2.7.1: Null Engine](https://github.com/GuineaPigUuhh/Funkin0.2.7.1-NullEngine)
 - [FNF': Psych Scripts](https://github.com/GuineaPigUuhh/FNF-Psych-Scripts)
