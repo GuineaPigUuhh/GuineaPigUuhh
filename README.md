@@ -1,8 +1,8 @@
 ## About Me
 a programmer who makes codes for fun 👍
 
-My discord for contact: guineapiguuhh7841
-My Channel in Youtube: [Click Me!](https://www.youtube.com/channel/UCdOS2LIS1up0eeE3KNqlgqg)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdOS2LIS1up0eeE3KNqlgqg)
+
 
 ## Programming languages ​​I know
 - [Haxe](https://haxe.org/)
