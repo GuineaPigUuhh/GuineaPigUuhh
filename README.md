@@ -9,8 +9,3 @@
 ## Programming languages ​​I know
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=FFF&labelColor=EA8220)](https://haxe.org/)
-
-## My professions
-- Artist
-- Animator
-- Coder
