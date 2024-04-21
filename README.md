@@ -1,7 +1,3 @@
-<style>
-
-</style>
-
 <div align="center">
   <img src="Default/banner.png"/>
 </div>
@@ -13,7 +9,7 @@
 ---
 
 <details>
-  <summary><h3>My Favorite Tools</h3></summary>
+  <summary>My Favorite Tools</summary>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,python,js,github,vscode"/>
   </a>
@@ -21,7 +17,7 @@
 
 
 <details>
-  <summary><h3>My Accounts</h3></summary>
+  <summary>My Accounts</summary>
 
   - Discord: guineapiguuhh7841
   - Youtube: <a href="https://www.youtube.com/channel/UCdOS2LIS1up0eeE3KNqlgqg"> @guineapiguuhh7841 </a>
@@ -29,7 +25,7 @@
 </details>
 
 <details>
-  <summary><h3>My Status</h3></summary>
+  <summary>My Status</summary>
 
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
