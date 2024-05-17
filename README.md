@@ -2,7 +2,7 @@
   <img src="res/imgs/README/banner.png"/>
 </div>
 
-<h2> Hi! 🤗</h2>
+## Hi! 🤗
 
 **I'm GuineaPigUuhh**, a Programmer and an Artist.
 
@@ -19,14 +19,10 @@
 
 <details>
   <summary>Accounts</summary>
-
-  <ul> 
-  <li> <a href="res/data/Discord.md">Discord</a> </li>
-
-  <li> <a href="https://www.youtube.com/channel/UCdOS2LIS1up0eeE3KNqlgqg">Youtube<a> </li>
-
-  <li> <a href="https://gamebanana.com/members/2300290">Gamebanana</a> </li>
-  </ul>
+  
+  - [Discord](res/data/Discord.md)
+  - [Youtube](https://www.youtube.com/channel/UCdOS2LIS1up0eeE3KNqlgqg)
+  - [Gamebanana](https://gamebanana.com/members/2300290)
 </details>
 
 <details>
