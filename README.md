@@ -11,25 +11,23 @@
 
 <details>
   <summary>Favorite tools</summary>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,python,js,github,vscode"/>
+
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,python,js,github,vscode"/>
   </a>
 </details>
 
 <details>
   <summary>Accounts</summary>
-  <ul> 
-  <li>
-  <a href="res/data/Discord.md">Discord</a>
-  </li>
-  
-  <li>
-  <a href="https://www.youtube.com/channel/UCdOS2LIS1up0eeE3KNqlgqg">Youtube<a>
-  </li>
 
-  <li>
-  <a href="https://gamebanana.com/members/2300290">Gamebanana</a>
-  </li>
+  <ul> 
+
+  <li><a href="res/data/Discord.md">Discord</a></li>
+  
+  <li><a href="https://www.youtube.com/channel/UCdOS2LIS1up0eeE3KNqlgqg">Youtube<a></li>
+  
+  <li><a href="https://gamebanana.com/members/2300290">Gamebanana</a></li>
+
   </ul>
 </details>
 
