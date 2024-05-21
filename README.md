@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="res/imgs/README/banner.png"/>
+  <img src="res/imgs/README/banner.png" height=70 width=1000/>
 </div>
 
-## Hi! 🤗
+## Hello, I'm GuineaPigUuhh! 🤗
 
-**I'm GuineaPigUuhh**, a Programmer and an Artist.
-
+I'm a Programmer and an Artist, feel free to take a look at my Repositories.
 
 ---
 
@@ -30,8 +29,8 @@
 
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=GuineaPigUuhh&show_icons=true&hide_border=true&bg_color=90,39009E,00FF7F,00FF7F&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height=180/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuineaPigUuhh&layout=compact&hide_border=true&bg_color=90,39009E,00FF7F&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height=180/>
+      <img src="https://github-readme-stats.vercel.app/api?username=GuineaPigUuhh&show_icons=true&hide_border=true&bg_color=90,EFCD0A,5C0BE4,5C0BE4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height=180/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuineaPigUuhh&layout=compact&hide_border=true&bg_color=90,EFCD0A,5C0BE4,5C0BE4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height=180/>
     </a>
   </div>
 </details>
