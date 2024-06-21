@@ -1,11 +1,6 @@
-<div align="center">
-  <img src="res/imgs/README/banner.png" height=70 width=1000/>
-</div>
+<img src="res/imgs/banner.gif" width=850/>
 
-## Hello, I'm GuineaPigUuhh! 🤗
-
-I'm a Programmer and an Artist, feel free to take a look at my Repositories.
-
+###### I'm an artist and a programmer, feel free to check out my repositories.
 ---
 
 <details>
