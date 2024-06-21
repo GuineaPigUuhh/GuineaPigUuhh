@@ -1,4 +1,4 @@
-<img src="res/imgs/banner.gif" width=850/>
+<img src="res/imgs/banner.png" width=850/>
 
 ###### I'm an artist and a programmer, feel free to check out my repositories.
 ---
